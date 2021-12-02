@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Organizze</string>
+    <string name="titulo">Crie sua conta grátis</string>
+    <string name="jatemconta"><u>Já tenho uma conta</u></string>
+    <string name="cadastrese">Cadastre-se</string>
+    <string name="textaotelaUm">Junte-se a mais de meio milhão de pessoas e comece já!</string>
+    <string name="noAccCreate"><u>Não possui uma conta? Cadastre-se clicando aqui!</u></string>
+</resources>
